@@ -14,4 +14,4 @@ Just mention **@AoPS** and it will fetch a random problem. New problem sets will
 
 # Add AoPS Bot to Your Server
 
-![add-aops](https://raw.githubusercontent.com/aops-bot/aops-bot.github.io/master/img/aops-discord.png)
+[![add-aops](https://raw.githubusercontent.com/aops-bot/aops-bot.github.io/master/img/aops-discord.png)](https://discordapp.com/oauth2/authorize?client_id=455784669300916224&permissions=0&scope=bot)
