@@ -2,7 +2,7 @@
 
 ![logo](https://raw.githubusercontent.com/aops-bot/aops-bot.github.io/master/img/aops-logo.png)
 
-AoPS is a simple bot that pulls math problems from [artofproblemsolving](https://artofproblemsolving.com) into your Discord channel.
+AoPS is a simple bot that pulls math problems from [Art of Problem Solving](https://artofproblemsolving.com) into your Discord channel.
 
 ### How Does it Work?
 
